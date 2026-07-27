@@ -1,0 +1,19 @@
+CATÁLOGO PERSONALIZADO PARA CARLOS
+
+WhatsApp de contacto:
+479 216 6442
+
+El botón dice:
+Cotizar con Carlos
+
+Mensaje automático:
+Hola Carlos, vi el catálogo digital de Alfacolor y me gustaría solicitar una cotización.
+
+PUBLICACIÓN
+Para no alterar el catálogo general, se recomienda crear un repositorio independiente, por ejemplo:
+catalogo-carlos
+
+Sube todos los archivos directamente a la raíz del repositorio y activa:
+Settings > Pages > Deploy from a branch > main > /(root)
+
+Si prefieres usar el repositorio actual, estos archivos reemplazarán temporalmente la versión general.
