@@ -1,0 +1,20 @@
+CATÁLOGO DE CARLOS — 28 PÁGINAS
+
+Esta versión usa un nombre nuevo para el PDF:
+catalogo-carlos-2026.pdf
+
+Esto evita que GitHub Pages o el navegador sigan mostrando la versión anterior de una sola página.
+
+PASOS:
+1. En el repositorio catalogo-carlos elimina el archivo viejo catalogo.pdf.
+2. Sube y reemplaza:
+   - index.html
+   - logo.png
+   - catalogo-carlos-2026.pdf
+3. Haz Commit changes.
+4. Espera 2 minutos.
+5. Abre nuevamente la liga.
+6. Recarga sin caché:
+   Mac: Command + Shift + R
+   Windows: Ctrl + F5
+   iPhone/iPad: cierra la pestaña por completo y vuelve a abrirla.
